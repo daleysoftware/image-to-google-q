@@ -1,0 +1,8 @@
+version: '3'
+services:
+    processor:
+        build:
+            context: .
+        volumes:
+            - ./src:/opt/image-to-google-q
+

@@ -1,0 +1,12 @@
+gap-stat==1.0.1
+joblib==0.11
+numpy==1.14.0
+pandas==0.22.0
+Pillow==5.0.0
+pytesseract==0.2.0
+python-dateutil==2.6.1
+pytz==2017.3
+redis==2.10.6
+scikit-learn==0.19.1
+scipy==1.0.0
+six==1.11.0
